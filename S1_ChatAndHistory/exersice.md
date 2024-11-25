@@ -29,13 +29,14 @@ Follow the steps below:
    - Use 'InMemoryChatMessageHistory', to store history and allow user customize the story.
    - You can pass the story created with prompt saying 'change the given story according to user input'.
 
-6. **Execution**:
+7. **Execution**:
    - When you run the code, it should randomly pick an actor, location, and theme, then generate a story around these elements. Then it should ask for user input to customize the story. You may include heroines in the story for added detail.
 
 ## Example Output
 
 ### Selected Elements
 - **Actor**: Chris Evans
+
 - **Location**: New York
 - **Theme**: Adventure
 
